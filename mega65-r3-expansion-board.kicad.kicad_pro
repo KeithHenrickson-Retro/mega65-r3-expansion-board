@@ -540,7 +540,7 @@
       "netlist": "",
       "plot": "gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "mega65-r3-expansion-board.kicad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
